@@ -48,7 +48,7 @@ This document summarizes the current approach and conventions for the File Impor
 ## Experimental Files
 - `Fixed3DViewer.tsx` and `ModernFileImport.tsx` are marked as experimental and not part of the production flow. Keep for reference, or move to a `src/experiments/` folder.
 
----
+
 
 ## End-to-End Architecture (v1)
 
